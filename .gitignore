@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+.chrome_tmp/
+shot_*.png
+.workbuddy/
